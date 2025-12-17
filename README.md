@@ -170,7 +170,6 @@ http://localhost:3000
 
 ## 📜 License
 
-MIT License
-Free to use for learning and personal projects.
+This project is open-source under the **MIT License**.
 
 ---
