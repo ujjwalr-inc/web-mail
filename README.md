@@ -1,6 +1,6 @@
 # 📧 Web Mail Application
 
-A **Node.js + Express web mail application** that allows users to send emails **with file attachments** using **Gmail OAuth2 authentication**.
+A **Node.js and Express web mail application** that allows users to send emails **with file attachments** using **Gmail OAuth2 authentication**.
 The frontend is a simple HTML/CSS form, and the backend uses **Nodemailer, Multer, and Google APIs**.
 
 ---
